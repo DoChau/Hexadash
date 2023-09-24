@@ -1,7 +1,7 @@
 <script>
 	import { Col, Card, CardHeader, CardBody } from 'sveltestrap';
 	import Flatpickr from 'svelte-flatpickr';
-	import 'flatpickr/dist/flatpickr.css';
+	//*import 'flatpickr/dist/flatpickr.css';
 
 	let value;
 
