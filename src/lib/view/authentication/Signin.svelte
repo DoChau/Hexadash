@@ -81,7 +81,7 @@
 							{/if} -->
 							<CardHeader>
 								<div class="edit-profile__title">
-									<h6>Sign in HexaDash</h6>
+									<h6>Sign in Holmdelnails</h6>
 								</div>
 							</CardHeader>
 							<CardBody>
