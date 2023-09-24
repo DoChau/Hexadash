@@ -31,7 +31,7 @@
 
 	const { form, errors, handleChange, handleSubmit } = createForm({
 		initialValues: {
-			email: 'hexadash@dm.com',
+			email: 'admin@holmdelnails.com',
 			password: '12345678'
 		},
 		validationSchema: loginSchema,
